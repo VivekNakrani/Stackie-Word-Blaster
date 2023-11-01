@@ -1,0 +1,72 @@
+/*** Main Container ***/
+
+/*** Buttons ***/
+/*** HOW TO PLAY, EASY, MEDIUM, HARD ***/
+.buttons-container {
+  margin: 30px 0;
+}
+
+.btn-index {
+  transition: all 0.5s;
+  margin: 0.3em 0;
+}
+
+.btn-index:hover,
+.btn-index a:hover {
+  background-color: rgb(153, 44, 255);
+  border-radius: 0;
+  color: rgb(238, 255, 0) !important;
+  transform: translateY(-4px);
+}
+
+.btn-index a {
+  color: black;
+}
+
+.score-box {
+  color: white;
+}
+
+/*** AUDIO ***/
+#HomeSound {
+  position: absolute;
+  top: 2%;
+  right: 2%;
+}
+
+/*** Buttons Text ***/
+h2 {
+  margin: 0 !important;
+  padding: 0.5rem 0 !important;
+}
+
+/*** Passport ***/
+.connect-button{
+  background-color: #0074cc; 
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.connect-button:hover {
+  background-color: #005ca3; 
+}
+.logout-button {
+  background-color: #e4381a; 
+  color: #fff;
+  padding: 10px 20px;
+  margin-top: 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+
+}
+
+.logout-button:hover {
+  background-color: #ff000f; 
+}
