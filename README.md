@@ -1,24 +1,21 @@
-# TP Aplicaciones Moviles - Game (Javascript)
+# Stackie Word Blaster
 
 <p align="center"><img src="./images/logo-game.png" alt="logo"></p>
 
-<br/>
-
 <p align="center">
-<b>Type the word, as fast as you can !!</b>, before it reaches the bottom of the blurred square.
-If it touches the <b>cyan line</b> . <b style="color: red">you lose</b>
-</p>
-
-DEMO: https://rt-falling-words.netlify.app/
+Welcome to Stackie Word Blaster, where lightning-fast typing skills are your ticket to victory!
+Words rain down from the sky, and your mission is to type them
+as fast as you can !!
+Don't let a single word touch the ground, or it's game over for you!
 
 ## Game difficulties
 
 It has 3 difficulties
 
-* Easy = 1 word per 3seg
-* Medium = 1 word per 2seg
-* Hard = 1 word per 1seg
-* Impossible = 1 word per 0.4seg
+* Easy = 1 Word per 3 Seconds
+* Medium = 1 Word per 2 Seconds
+* Hard = 1 Word per 1 Second
+* Impossible = 1 Word per 0.4 Second
 
 ## Tech used
 
@@ -39,18 +36,14 @@ It has 3 difficulties
 
 ### Home
 
-![Home](https://i.imgur.com/WPaSPiJ.jpg)
+<p align="center"><img src="./images/screenshots/1.png" alt="s1"></p>
 
 ### How to play
 
-![Howtoplay](https://i.imgur.com/OJP6uYJ.jpg)
+<p align="center"><img src="./images/screenshots/2.png" alt="s2"></p>
 
 ### Game
 
-![Game](https://i.imgur.com/hYaztZu.jpg)
+<p align="center"><img src="./images/screenshots/3.png" alt="s3"></p>
 
-![Gameover](https://i.imgur.com/cWtmBoR.jpg)
-
-### Credits
-
-![Credits](https://i.imgur.com/6wfyAyu.jpg)
+<p align="center"><img src="./images/screenshots/4.png" alt="s4"></p>
